@@ -11,7 +11,7 @@ namespace DependencyInjection_Worksheet
 
         public DateGenerator()
         {
-            _date  = new DateTime(2013,06,17);
+           // _date  = new DateTime(2013,06,17);
         }
 
         public DateTime Generate()
