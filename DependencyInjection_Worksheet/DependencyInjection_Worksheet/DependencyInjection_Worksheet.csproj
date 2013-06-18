@@ -42,6 +42,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="DateGenerator.cs" />
+    <Compile Include="IDateGenerator.cs" />
     <Compile Include="PublicHolidayNotifierTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="PublicHolidayNotifier.cs" />
